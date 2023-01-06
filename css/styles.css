@@ -1,0 +1,48 @@
+@import url("https://fonts.google.com/specimen/Montserrat");
+@import url("https://fonts.google.com/specimen/Fraunces");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --WidthMobile: 375px;
+  --WidthDesktop: 1440px;
+  /*
+## Colors
+
+### Primary
+*/
+  --ColorDarkCyan: hsl(158, 36%, 37%);
+  --ColorCream: hsl(30, 38%, 92%);
+  /*
+### Neutral
+*/
+  --ColorVeryDarkBlue: hsl(212, 21%, 14%);
+  --DarkGrayishBlue: hsl(228, 12%, 48%);
+  --ColorWhite: hsl(0, 0%, 100%);
+  /*
+## Typography
+
+### Body Copy
+*/
+  --FontSizeParagraph: 14px;
+  /*
+### Font
+*/
+  --FontFamilyOne: "Montserrat";
+  --FontFamilyTwo: "Fraunces";
+
+  --FontWeightRegular: 500;
+  --FontWeightBold: 700;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
