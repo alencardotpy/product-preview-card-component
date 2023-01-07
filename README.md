@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repo](https://github.com/alencardotpy/product-preview-card-component)
+- Live Site URL: [GitHub Pages](https://alencardotpy.github.io/product-preview-card-component)
 
 ## My process
 
@@ -47,5 +47,5 @@ Users should be able to:
 ## Author
 
 - Github - [AlencarDotPy](https://github.com/alencardotpy)
-- Frontend Mentor - [@alencardotpy](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@alencardotpy](https://www.frontendmentor.io/profile/alencardotpy)
 - Twitter - [@alencardotpy](https://www.twitter.com/alencardotpy)
